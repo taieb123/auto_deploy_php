@@ -107,7 +107,7 @@ $commands = array(
 
     'git submodule status',
 
-    'sudo touch style.css',
+    'touch style.css',
     'test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"',
 
 );
